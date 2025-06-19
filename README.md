@@ -1,4 +1,4 @@
-![logo](https://static.vecteezy.com/system/resources/thumbnails/023/265/648/small_2x/web-development-work-programmer-techniques-and-website-coding-on-augmented-reality-interface-screen-3d-vector-animation-with-moving-elements-video.jpg)
+![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLvMA03Nx3ECfyn0nNK9W_1tEcTQvkO9y_QA&s)
 <h1 align="center">Hi 👋, I'm Sai Sampath Kumar</h1>
 <h3 align="center">Aspiring SDE | Learning Data Structures & Frontend Development | Building One Project at a Time</h3>
 
