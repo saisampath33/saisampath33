@@ -1,4 +1,4 @@
-![logo](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
+![logo](https://static.vecteezy.com/system/resources/thumbnails/023/265/648/small_2x/web-development-work-programmer-techniques-and-website-coding-on-augmented-reality-interface-screen-3d-vector-animation-with-moving-elements-video.jpg)
 <h1 align="center">Hi 👋, I'm Sai Sampath Kumar</h1>
 <h3 align="center">Aspiring SDE | Learning Data Structures & Frontend Development | Building One Project at a Time</h3>
 
