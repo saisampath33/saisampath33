@@ -6,7 +6,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saisampath33" alt="saisampath33" /></a> </p> -->
 
-- 🌱 I’m currently learning **Laravel and React**
+- 🌱 I’m currently learning **Java Full Stack**
 
 - 👯 I’m looking to collaborate on **AI Based Major Project**
 
